@@ -29,7 +29,7 @@ Welcome to **Foodizo**, a modern and responsive restaurant landing page built wi
 ### 1.Clone the repository
 
 - **git clone https://github.com/sabesh82/Foodizo-landing-page.git**
-- **cd foodizo-landing-page**
+- **cd Foodizo-landing-page**
 
 ### 2.Install dependencies
 
