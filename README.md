@@ -41,4 +41,4 @@ Welcome to **Foodizo**, a modern and responsive restaurant landing page built wi
 
 ---
 
-### Made with ❤️ by Sabesh (https://github.com/sabesh82)
+### Made with ❤️ by Sabesh (https://github.com/sabesh82).
