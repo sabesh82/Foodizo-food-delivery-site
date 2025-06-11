@@ -34,7 +34,7 @@ Check out the live version of this project hosted on Vercel:  [Live Demo](https:
 
 ### 1.Clone the repository
 
-- **git clone https://github.com/sabesh82/Foodizo-landing-page.git**
+- **`git clone https://github.com/sabesh82/Foodizo-landing-page.git`**
 - **cd Foodizo-landing-page**
 
 ### 2.Install dependencies
