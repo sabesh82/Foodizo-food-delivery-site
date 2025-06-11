@@ -30,7 +30,7 @@ const Offers = () => {
 
           <div className="w-full md:w-1/2 flex justify-center">
             <img
-              src="src/assets/img/offer.png"
+              src="/assets/img/offer.png"
               alt=""
               className="md:h-100 md:w-100 h-60 w-60"
             />

@@ -28,7 +28,7 @@ const Services = () => {
         </h1>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-3.5 mt-8">
           <div className="flex flex-col p-2 bg-gray-200 dark:bg-gray-600 items-center justify-center rounded-lg hover:-translate-y-1">
-            <img src="src/assets/img/1.png" alt="" className="h-60 w-60" />
+            <img src="/assets/img/1.png" alt="" className="h-60 w-60" />
             {processSteps.first.map((item, key) => (
               <p
                 key={key}
@@ -41,7 +41,7 @@ const Services = () => {
           </div>
 
           <div className="flex flex-col p-2 bg-gray-200 dark:bg-gray-600 items-center justify-center rounded-lg hover:-translate-y-1">
-            <img src="src/assets/img/2.png" alt="" className="h-60 w-60" />
+            <img src="/assets/img/2.png" alt="" className="h-60 w-60" />
             {processSteps.second.map((item, key) => (
               <p
                 key={key}
@@ -54,11 +54,7 @@ const Services = () => {
           </div>
 
           <div className="flex flex-col p-2 bg-gray-200 dark:bg-gray-600 items-center justify-center rounded-lg hover:-translate-y-1">
-            <img
-              src="src/assets/img/process3.png"
-              alt=""
-              className="h-60 w-60"
-            />
+            <img src="/assets/img/process3.png" alt="" className="h-60 w-60" />
             {processSteps.third.map((item, key) => (
               <p
                 key={key}
