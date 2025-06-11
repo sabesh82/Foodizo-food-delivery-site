@@ -6,7 +6,7 @@ Welcome to **Foodizo**, a modern and responsive restaurant landing page built wi
 
 ## 🔗 Live Demo
 
-Check out the live version of this project hosted on Vercel:  [Live Demo](foodizo-landing-page.vercel.app)
+Check out the live version of this project hosted on Vercel:  [Live Demo](https://foodizo-landing-page.vercel.app)
 
 ---
 
