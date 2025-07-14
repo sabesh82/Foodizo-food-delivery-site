@@ -30,7 +30,7 @@ const Offers = () => {
 
           <div className="w-full md:w-1/2 flex justify-center">
             <img
-              src="/assets/img/offer.png"
+              src="https://res.cloudinary.com/dlseuftkj/image/upload/v1752483469/offer_swktmg.png"
               alt=""
               className="md:h-100 md:w-100 h-60 w-60"
             />

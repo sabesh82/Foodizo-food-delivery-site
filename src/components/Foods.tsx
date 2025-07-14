@@ -6,49 +6,57 @@ const Foods = () => {
       id: 1,
       name: "Chicken Biriyani",
       price: "1500 Rs",
-      image: "/assets/img/food1.png",
+      image:
+        "https://res.cloudinary.com/dlseuftkj/image/upload/v1752482917/food1_xyccfj.png",
     },
     {
       id: 2,
       name: "Medium italian Pizza",
       price: "2500 Rs",
-      image: "/assets/img/food2.png",
+      image:
+        "https://res.cloudinary.com/dlseuftkj/image/upload/v1752483261/food2_zoc5qy.png",
     },
     {
       id: 3,
       name: "Noodles",
       price: "900 Rs",
-      image: "/assets/img/food3.png",
+      image:
+        "https://res.cloudinary.com/dlseuftkj/image/upload/v1752483272/food3_gbqvr9.png",
     },
     {
       id: 4,
       name: "Donets",
       price: "499 Rs",
-      image: "/assets/img/food4.png",
+      image:
+        "https://res.cloudinary.com/dlseuftkj/image/upload/v1752483307/food4_krtfhu.png",
     },
     {
       id: 5,
       name: "French Fries",
       price: "999 Rs",
-      image: "/assets/img/food5.png",
+      image:
+        "https://res.cloudinary.com/dlseuftkj/image/upload/v1752483312/food5_uiojvm.png",
     },
     {
       id: 6,
       name: "Sausage bun",
       price: "400 Rs",
-      image: "/assets/img/food6.png",
+      image:
+        "https://res.cloudinary.com/dlseuftkj/image/upload/v1752483326/food6_gl6fgc.png",
     },
     {
       id: 7,
       name: "Onion rings",
       price: "299 Rs",
-      image: "/assets/img/food7.png",
+      image:
+        "https://res.cloudinary.com/dlseuftkj/image/upload/v1752483355/food7_rli7zo.png",
     },
     {
       id: 8,
       name: "Lemon Mojito",
       price: "500 Rs",
-      image: "/assets/img/food8.png",
+      image:
+        "https://res.cloudinary.com/dlseuftkj/image/upload/v1752483361/food8_yapslo.png",
     },
   ];
 

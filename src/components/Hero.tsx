@@ -34,7 +34,7 @@ const Hero = () => {
         {/*image section*/}
         <div className="flex items-center md:w-1/2 mt-5 justify-center ">
           <img
-            src="/assets/img/hero.jpg"
+            src="https://res.cloudinary.com/dlseuftkj/image/upload/v1752482865/hero_iexphu.avif"
             alt=""
             className="w-65 h-65 md:w-125 md:h-125 object-cover rounded-full mt-10 md:mt-0"
           />
